@@ -64,3 +64,5 @@ snapshots/
 
 # PyCharm
 .idea
+
+*.bak
