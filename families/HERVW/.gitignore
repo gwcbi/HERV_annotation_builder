@@ -1,0 +1,5 @@
+ucsc/
+*.fasta
+*.gtf
+*_table.txt
+
